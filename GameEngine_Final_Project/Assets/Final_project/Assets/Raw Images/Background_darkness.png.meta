@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 8811e317de86c3d4e91e234a0affea6d
+guid: 38a777f35a76e7e4d8d039656b1b20bb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7453059225895710123
-    second: Gemini_Generated_Image_n4h6bqn4h6bqn4h6_0
+      213: 9007807192998633423
+    second: Background_darkness_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,12 +46,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Gemini_Generated_Image_n4h6bqn4h6bqn4h6_0
+      name: Background_darkness_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1024
-        height: 1024
+        width: 1456
+        height: 816
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bad2671c0e59e6760800000000000000
-      internalID: 7453059225895710123
+      spriteID: fcf54e7aae8220d70800000000000000
+      internalID: 9007807192998633423
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Gemini_Generated_Image_n4h6bqn4h6bqn4h6_0: 7453059225895710123
+      Background_darkness_0: 9007807192998633423
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

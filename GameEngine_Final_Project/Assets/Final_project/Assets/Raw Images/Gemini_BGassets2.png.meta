@@ -1,11 +1,10 @@
 fileFormatVersion: 2
-guid: c8663d6b705218d4581454cf7a4cc454
+guid: 2b3c56bcfa621b5488240ccdb2e23c94
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7764078371719857068
-    second: u9945627486_platformer_game_side-scrolling_game_fantasy_mine__bcf49d14-9cfa-441f-b9b6-764f
-      (1)_0
+      213: -7881731068613107103
+    second: Gemini_BGassets2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -101,14 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: u9945627486_platformer_game_side-scrolling_game_fantasy_mine__bcf49d14-9cfa-441f-b9b6-764f
-        (1)_0
+      name: Gemini_BGassets2_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1456
-        height: 816
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -117,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ca3c7aaa42c8fbb60800000000000000
-      internalID: 7764078371719857068
+      spriteID: 162e7203a577e9290800000000000000
+      internalID: -7881731068613107103
       vertices: []
       indices: 
       edges: []
@@ -137,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      u9945627486_platformer_game_side-scrolling_game_fantasy_mine__bcf49d14-9cfa-441f-b9b6-764f (1)_0: 7764078371719857068
+      Gemini_BGassets2_0: -7881731068613107103
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
